@@ -1,7 +1,9 @@
+- <!--
 - 👋 Hi, I’m @muhammedasif
 - 👀 I’m interested in Coding,Reading Articles,Problem Solving
 - 🌱 I’m currently learning BBA at Mgu & self studiying lots  of things
 - 📫 How to reach me asifasifpsps@gmail.com , _asif_mohmd@twitter.com
+--->
 
 <!---
 asif-mohmd/asif-mohmd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
