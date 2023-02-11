@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 Muhammed Asif Here👋
 ================================
 
-Web developer software developer
+MERN Stack Developer
 --------------------------------
 
 I've been learning coding for 3 years. I started with C language. then java , C++ , Git, Java Script then I started MERNSTACK Journey . I studied Node js , React js , Mongo db, HandleBars etc..
